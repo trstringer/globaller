@@ -1,0 +1,22 @@
+{
+  "name": "globaller",
+  "version": "0.1.0",
+  "description": "Locally create a globally accessible node module",
+  "main": "./src/globaller.js",
+  "bin": {
+    "globaller": "./bin/globaller"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Thomas Stringer",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^3.2.2"
+  },
+  "dependencies": {
+    "chalk": "^1.1.3",
+    "commander": "^2.9.0"
+  }
+}
