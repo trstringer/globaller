@@ -6,10 +6,7 @@
   "bin": {
     "globaller": "./bin/globaller"
   },
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "keywords": [],
+  "keywords": ["node", "nodejs", "npm", "global", "module", "modules", "modularization"],
   "author": "Thomas Stringer",
   "license": "MIT",
   "devDependencies": {
